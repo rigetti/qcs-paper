@@ -1,6 +1,8 @@
 Supplementary interactive notebooks for the QCS paper
 =====================================================
 
+[![Binder](https://mybinder.org/badge_logo.svg)][binder]
+
 Binder repository for the code and datasets that underpin the results in the paper
 *A quantum-classical cloud platform optimized for variational hybrid algorithms*
 by Peter J. Karalekas, Nikolas A. Tezak, Eric C. Peterson, Colm A. Ryan, Marcus P. da Silva,
@@ -27,3 +29,5 @@ http://127.0.0.1:8888/?token=TOKEN
 
 Copy paste the above URL into your browser, replacing 8888 with `PORT`. This will bring up the
 JupyterLab interface.
+
+[binder]: https://mybinder.org/v2/gh/rigetti/qcs-paper/master?urlpath=lab/tree/Welcome.ipynb
