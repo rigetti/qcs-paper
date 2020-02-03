@@ -5,7 +5,7 @@ Supplementary interactive notebooks for the QCS paper
 [![pipeline status][gitlab-badge]][gitlab-project]
 [![docker pulls][docker-badge]][docker-image]
 [![github release][github-badge]][github-release]
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3606735.svg)][zenodo]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3606734.svg)][zenodo]
 
 Binder repository for the code and datasets that underpin the results in the paper
 [*A quantum-classical cloud platform optimized for variational hybrid algorithms*][paper]
@@ -76,4 +76,4 @@ To cite our [paper][paper] on Quantum Cloud Services (QCS), please use the follo
 [quilc]: https://github.com/rigetti/quilc
 [qvm]: https://github.com/rigetti/qvm
 [robert]: https://github.com/stylewarning
-[zenodo]: https://doi.org/10.5281/zenodo.3606735
+[zenodo]: https://doi.org/10.5281/zenodo.3606734
