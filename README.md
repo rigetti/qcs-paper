@@ -2,7 +2,6 @@ Supplementary interactive notebooks for the QCS paper
 =====================================================
 
 [![Binder](https://mybinder.org/badge_logo.svg)][binder]
-[![pipeline status][gitlab-badge]][gitlab-project]
 [![docker pulls][docker-badge]][docker-image]
 [![github release][github-badge]][github-release]
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3606734.svg)][zenodo]
