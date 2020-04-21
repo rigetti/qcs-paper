@@ -42,20 +42,26 @@ more, check out the [rigetti/forest-notebook][forest-notebook-repo] repository!
 
 ## Paper Citation
 
-To cite our [paper][paper] on Quantum Cloud Services (QCS), please use the following BibTeX snippet:
+To cite our [paper][article] on Quantum Cloud Services (QCS), please use the following BibTeX snippet:
 
 ```bibtex
-@misc{karalekas2020quantumclassical,
-    title={A quantum-classical cloud platform optimized for variational hybrid algorithms},
-    author={Peter J. Karalekas and Nikolas A. Tezak and Eric C. Peterson
-            and Colm A. Ryan and Marcus P. da Silva and Robert S. Smith},
-    year={2020},
-    eprint={2001.04449},
-    archivePrefix={arXiv},
-    primaryClass={quant-ph}
+@article{Karalekas_2020,
+    title = {A quantum-classical cloud platform optimized for variational hybrid algorithms},
+    author = {Peter J Karalekas and Nikolas A Tezak and Eric C Peterson
+              and Colm A Ryan and Marcus P da Silva and Robert S Smith},
+    year = 2020,
+    month = {apr},
+    publisher = {{IOP} Publishing},
+    journal = {Quantum Science and Technology},
+    volume = {5},
+    number = {2},
+    pages = {024003},
+    doi = {10.1088/2058-9565/ab7559},
+    url = {https://doi.org/10.1088%2F2058-9565%2Fab7559},
 }
 ```
 
+[article]: https://dx.doi.org/10.1088/2058-9565/ab7559
 [binder]: https://mybinder.org/v2/gh/rigetti/qcs-paper/master?urlpath=lab/tree/Welcome.ipynb
 [colm]: https://github.com/caryan
 [docker-badge]: https://img.shields.io/docker/pulls/rigetti/qcs-paper.svg
