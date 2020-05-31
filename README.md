@@ -42,7 +42,7 @@ more, check out the [rigetti/forest-notebook][forest-notebook-repo] repository!
 
 ## Paper Citation
 
-To cite our [paper][article] on Quantum Cloud Services (QCS), please use the following BibTeX snippet:
+The preprint of our paper on Quantum Cloud Services (QCS) is available on the [arXiv][arxiv]. Additionally, it was published [here][article] in IOP's Quantum Science & Technology journal, as part of the Focus on Quantum Software [special issue][focus]. To cite our paper, please use the following BibTeX snippet:
 
 ```bibtex
 @article{Karalekas_2020,
@@ -62,6 +62,7 @@ To cite our [paper][article] on Quantum Cloud Services (QCS), please use the fol
 ```
 
 [article]: https://dx.doi.org/10.1088/2058-9565/ab7559
+[arxiv]: https://arxiv.org/abs/2001.04449
 [binder]: https://mybinder.org/v2/gh/rigetti/qcs-paper/master?urlpath=lab/tree/Welcome.ipynb
 [colm]: https://github.com/caryan
 [docker-badge]: https://img.shields.io/docker/pulls/rigetti/qcs-paper.svg
@@ -73,6 +74,7 @@ To cite our [paper][article] on Quantum Cloud Services (QCS), please use the fol
 [gitlab-badge]: https://gitlab.com/rigetti/forest/qcs-paper/badges/master/pipeline.svg
 [gitlab-project]: https://gitlab.com/rigetti/forest/qcs-paper/commits/master
 [eric]: https://github.com/ecpeterson
+[focus]: https://iopscience.iop.org/journal/2058-9565/page/Focus-on-Quantum-Software
 [marcus]: https://github.com/marcusps
 [nikt]: https://github.com/ntezak
 [paper]: https://scirate.com/arxiv/2001.04449
